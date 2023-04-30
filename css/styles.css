@@ -494,7 +494,9 @@ progress {
     font-size: 5rem;
   }
 }
-
+.testimonals {
+  margin: 4rem;
+}
 .display-2 {
   font-size: calc(1.575rem + 3.9vw);
   font-weight: 300;
@@ -1282,6 +1284,7 @@ progress {
   .col-lg-6 {
     flex: 0 0 auto;
     width: 50%;
+    background-color: #000;
   }
   .col-lg-7 {
     flex: 0 0 auto;
